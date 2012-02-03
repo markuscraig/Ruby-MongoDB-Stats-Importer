@@ -1,9 +1,8 @@
 #!/usr/bin/env ruby
 #
-# StadiumVision Mobile:
 # MongoDB Stats Import Script
 #
-# Mark Craig (mlcraig@cisco.com)
+# Mark Craig (mark@markcraig.net)
 #
 
 # import the required libraries
